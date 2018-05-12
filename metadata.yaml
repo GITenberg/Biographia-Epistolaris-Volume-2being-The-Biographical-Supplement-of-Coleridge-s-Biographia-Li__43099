@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2699'
     url: http://www.gutenberg.org/2009/agents/2699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43099#Biographia-Epistolaris-Volume-2being-The-Biographical-Supplement-of-Coleridge-s-Biographia-Li_
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
